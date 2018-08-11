@@ -1,0 +1,8 @@
+1. Pastikan Komputer Memiliki Aplikasi Netbeans dan Xampp
+2. Lalu copykan project ke netbeans
+3. Program siap dijalankan
+4. Jika terdapat eror ketika akan di running makan masukan Library yang sudah tersedia di file ini
+5. Untuk Login gunakan aplikasi penjualan barang elektronik masukkan :
+	username : disca   password : disca
+	             
+6. Cara penggunaan program yang lengkap terdapat di Laporan
